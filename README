@@ -1,8 +1,9 @@
-Implementação de várias estruturas de dados e de projetos de apoio.
+ImplementaÃ§Ã£o de vÃ¡rias estruturas de dados e de projetos de apoio.
 
-    - algoritmos: implementação de algoritmos de pesquisa e de ordenação em C.
-    - apoio: implementação de exemplos e de "ferramentas" com interface gráfica para explicação de conceitos.
-             o código das ferramentas não tem como objetivo ser legível ou bem escrito (foram feito rapidamente)
-             e são projetos em Java feitos no NetBeans
-    - estruturas: implementação de várias estruturas de dados em C.
+    - algoritmos: implementaÃ§Ã£o de algoritmos de pesquisa e de ordenaÃ§Ã£o em C.
+    - apoio: implementaÃ§Ã£o de exemplos e de "ferramentas" com interface grÃ¡fica
+             para explicaÃ§Ã£o de conceitos. O cÃ³digo das ferramentas nÃ£o tem como
+             objetivo ser legÃ­vel ou bem escrito (foram feitos rapidamente) e sÃ£o
+             projetos em Java feitos no NetBeans.
+    - estruturas: implementaÃ§Ã£o de vÃ¡rias estruturas de dados em C.
     - material: slides de apoio e outros arquivos (podem conter erros!)
