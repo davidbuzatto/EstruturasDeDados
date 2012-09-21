@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1331760519 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\filadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1331760535 c:\users\david\documents\ifsp\2012\disciplinas\esd\filadinamica\fila.h
+	<stdbool.h>
+
+1331760491 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\filadinamica\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"fila.h"
+

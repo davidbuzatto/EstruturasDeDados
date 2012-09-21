@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1333659848 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"arvoreBinariaBusca.h"
+	"ordenacao.h"
+
+1333659757 c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\ordenacao.h
+	<stdbool.h>
+
+1337028415 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\busca.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+
+1333554612 c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\busca.h
+	<stdbool.h>
+
+1337027604 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+
+1333647384 c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\arvorebinariabusca.h
+	<stdbool.h>
+
+1333647425 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\arvorebinariabusca.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"arvoreBinariaBusca.h"
+
+1337636834 source:c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - bubble, selection e insertion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+	"ordenacao.h"
+
+1333554612 c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - bubble, selection e insertion\busca.h
+	<stdbool.h>
+
+1337702624 c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - bubble, selection e insertion\ordenacao.h
+	<stdbool.h>
+
+1337702624 source:c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - bubble, selection e insertion\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"ordenacao.h"
+
+1337028415 source:c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - bubble, selection e insertion\busca.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+
+1337702692 source:c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - merge e quick\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+	"ordenacao.h"
+
+1333554612 c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - merge e quick\busca.h
+	<stdbool.h>
+
+1337702624 c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - merge e quick\ordenacao.h
+	<stdbool.h>
+
+1337703550 source:c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - merge e quick\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"ordenacao.h"
+
+1337028415 source:c:\users\david\documents\ifsp\disciplinas\esd\algoritmosbuscaordenacao - merge e quick\busca.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+
+1337028415 source:c:\documents and settings\dbuzatto\desktop\algoritmosbuscaordenacao - completo\busca.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+
+1333554612 c:\documents and settings\dbuzatto\desktop\algoritmosbuscaordenacao - completo\busca.h
+	<stdbool.h>
+
+1338227815 source:c:\documents and settings\dbuzatto\desktop\algoritmosbuscaordenacao - completo\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"ordenacao.h"
+	"arvoreBinariaBuscaOrdenacao.h"
+
+1338228616 c:\documents and settings\dbuzatto\desktop\algoritmosbuscaordenacao - completo\ordenacao.h
+	<stdbool.h>
+
+1338224466 c:\documents and settings\dbuzatto\desktop\algoritmosbuscaordenacao - completo\arvorebinariabuscaordenacao.h
+	<stdbool.h>
+
+1338224536 source:c:\documents and settings\dbuzatto\desktop\algoritmosbuscaordenacao - completo\arvorebinariabuscaordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"arvoreBinariaBuscaOrdenacao.h"
+
+1338223922 source:c:\documents and settings\dbuzatto\desktop\algoritmosbuscaordenacao - completo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+	"ordenacao.h"
+

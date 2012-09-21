@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1339454362 source:c:\users\david\documents\ifsp\disciplinas\esd\heapmaximo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"heapMaximo.h"
+
+1339454476 c:\users\david\documents\ifsp\disciplinas\esd\heapmaximo\heapmaximo.h
+	<stdbool.h>
+
+1339454333 source:c:\users\david\documents\ifsp\disciplinas\esd\heapmaximo\heapmaximo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"heapMaximo.h"
+

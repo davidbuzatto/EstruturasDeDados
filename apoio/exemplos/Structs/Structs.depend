@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1330373437 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\structs\main.c
+	<stdio.h>
+	<stdlib.h>
+

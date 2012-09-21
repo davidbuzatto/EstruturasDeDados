@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1331573135 source:c:\documents and settings\dbuzatto\desktop\pilhadinamica\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1331572289 c:\documents and settings\dbuzatto\desktop\pilhadinamica\pilha.h
+	<stdbool.h>
+
+1331573167 source:c:\documents and settings\dbuzatto\desktop\pilhadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+

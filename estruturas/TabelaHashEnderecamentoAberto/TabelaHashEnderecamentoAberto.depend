@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1339716171 source:c:\documents and settings\dbuzatto\desktop\tabelahashenderecamentoaberto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabelaHash.h"
+
+1339716136 source:c:\documents and settings\dbuzatto\desktop\tabelahashenderecamentoaberto\tabelahash.c
+	<stdio.h>
+	<stdlib.h>
+	"tabelaHash.h"
+
+1339716171 c:\documents and settings\dbuzatto\desktop\tabelahashenderecamentoaberto\tabelahash.h
+
+1339722617 source:c:\users\david\documents\ifsp\disciplinas\esd\tabelahashenderecamentoaberto\tabelahash.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"tabelaHash.h"
+
+1339722617 c:\users\david\documents\ifsp\disciplinas\esd\tabelahashenderecamentoaberto\tabelahash.h
+	<stdbool.h>
+

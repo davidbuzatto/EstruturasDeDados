@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1333659848 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"arvoreBinariaBusca.h"
+	"ordenacao.h"
+
+1333659757 c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\ordenacao.h
+	<stdbool.h>
+
+1337028415 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\busca.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+
+1333554612 c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\busca.h
+	<stdbool.h>
+
+1337027604 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"busca.h"
+
+1333647384 c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\arvorebinariabusca.h
+	<stdbool.h>
+
+1333647425 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\algoritmosbuscaordenacao\arvorebinariabusca.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"arvoreBinariaBusca.h"
+

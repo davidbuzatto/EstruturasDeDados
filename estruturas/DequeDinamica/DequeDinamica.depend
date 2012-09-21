@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1331833910 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\dequedinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"deque.h"
+
+1331833421 c:\users\david\documents\ifsp\2012\disciplinas\esd\dequedinamica\deque.h
+	<stdbool.h>
+
+1331834523 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\dequedinamica\deque.c
+	<stdlib.h>
+	<stdio.h>
+	"deque.h"
+

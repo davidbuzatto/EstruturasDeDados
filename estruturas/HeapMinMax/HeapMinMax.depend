@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1339522497 source:c:\documents and settings\professor\desktop\heapminmax\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"heapMinMax.h"
+
+1339523015 c:\documents and settings\professor\desktop\heapminmax\heapminmax.h
+	<stdbool.h>
+
+1339522982 source:c:\documents and settings\professor\desktop\heapminmax\heapminmax.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	"heapMinMax.h"
+

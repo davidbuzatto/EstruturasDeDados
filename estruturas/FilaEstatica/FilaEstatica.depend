@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1331756968 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\filaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1331756776 c:\users\david\documents\ifsp\2012\disciplinas\esd\filaestatica\fila.h
+	<stdbool.h>
+
+1331757035 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\filaestatica\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"fila.h"
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1332788338 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\listaduplamenteencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1332788054 c:\users\david\documents\ifsp\2012\disciplinas\esd\listaduplamenteencadeada\lista.h
+	<stdbool.h>
+
+1332789563 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\listaduplamenteencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"lista.h"
+
+1333500795 source:c:\documents and settings\dbuzatto\desktop\listaduplamenteencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"lista.h"
+
+1332788054 c:\documents and settings\dbuzatto\desktop\listaduplamenteencadeada\lista.h
+	<stdbool.h>
+

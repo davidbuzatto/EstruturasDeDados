@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1332451054 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\listasimplesmenteencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1332444720 c:\users\david\documents\ifsp\2012\disciplinas\esd\listasimplesmenteencadeada\lista.h
+	<stdbool.h>
+
+1332447925 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\listasimplesmenteencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"lista.h"
+

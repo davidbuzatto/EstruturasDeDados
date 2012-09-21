@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1332792453 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\listacircularduplamenteencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"lista.h"
+
+1332788054 c:\users\david\documents\ifsp\2012\disciplinas\esd\listacircularduplamenteencadeada\lista.h
+	<stdbool.h>
+
+1333502604 source:c:\documents and settings\dbuzatto\desktop\listacircularduplamenteencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"lista.h"
+
+1332788054 c:\documents and settings\dbuzatto\desktop\listacircularduplamenteencadeada\lista.h
+	<stdbool.h>
+

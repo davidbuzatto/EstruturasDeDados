@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1334761173 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\arvorebinariabusca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"arvoreBinariaBusca.h"
+
+1334761105 c:\users\david\documents\ifsp\2012\disciplinas\esd\arvorebinariabusca\arvorebinariabusca.h
+	<stdbool.h>
+
+1334847983 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\arvorebinariabusca\arvorebinariabusca.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"arvoreBinariaBusca.h"
+

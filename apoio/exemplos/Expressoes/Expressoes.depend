@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1331659657 source:c:\documents and settings\dbuzatto\desktop\expressoes\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1331658722 c:\documents and settings\dbuzatto\desktop\expressoes\pilha.h
+	<stdbool.h>
+
+1331659647 source:c:\documents and settings\dbuzatto\desktop\expressoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+
+1331659656 source:c:\users\david\desktop\expressoes\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1331658722 c:\users\david\desktop\expressoes\pilha.h
+	<stdbool.h>
+
+1331659656 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\expressoes\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"pilha.h"
+
+1331658722 c:\users\david\documents\ifsp\2012\disciplinas\esd\expressoes\pilha.h
+	<stdbool.h>
+
+1331678454 source:c:\users\david\documents\ifsp\2012\disciplinas\esd\expressoes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+

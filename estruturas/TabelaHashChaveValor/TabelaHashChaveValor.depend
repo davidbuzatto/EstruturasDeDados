@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1340056831 source:c:\users\david\documents\ifsp\disciplinas\esd\tabelahashchavevalor\tabelahash.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	"tabelaHash.h"
+
+1340056831 c:\users\david\documents\ifsp\disciplinas\esd\tabelahashchavevalor\tabelahash.h
+	<stdbool.h>
+
+1340056855 source:c:\users\david\documents\ifsp\disciplinas\esd\tabelahashchavevalor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabelaHash.h"
+
